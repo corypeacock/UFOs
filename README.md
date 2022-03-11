@@ -15,19 +15,19 @@ The html page was constructed using bootstrap in order to streamline the process
 ## Results
 The index page is very clean and crisp, thanks to using Bootstrap's grid system. The header takes up the entire width of the page, whereas the next row is split into two columns, with an article title covering one-third of the width, and the article's blurb, which covers the remaining two-thirds of the width of the page. The next row is the heart of the webpage, with a series of input boxes for user input, covering one-quarter of the width, and the filterable table covering the reaminig three-quarters of the width of the page.  
 
-### IMAGE GOES HERE
+![index_sample](static/images/index_page.png)  
 
 The table is first displayed with all the data in the background data file. Upon receiving input the user, the table is filtered based upon the received input. For example, if a single criterion is inputted, the table will return results matching the received input.  
 
-### IMAGE GOES HERE
+![first_search](static/images/first_search.png)  
 
 Upon entering input in a second input field, the table will filter the data based on both inputs thus far entered.  
 
-### IMAGE GOES HERE
+![second_search](static/images/second_search.png)  
 
 Similarly, further input would filter the table even further should such data exist.  If all inputs are cleared, the entire dataset is presented again in the table.  
 
-### IMAGE GOES HERE
+![third_search](static/images/third_search.png)  
 
 ## Summary
 lorem ipsum  
